@@ -1640,7 +1640,7 @@ engines:
     suggestion_xpath: //div[@class="text-gray h6"]/a
     categories: general
     about:
-      website: https://brave.com/search/
+      website: https://search.brave.com/
       wikidata_id: Q22906900
       use_official_api: false
       require_api_key: false
